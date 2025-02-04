@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1729919943 source:c:\users\noga\desktop\iti\menue_18\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+

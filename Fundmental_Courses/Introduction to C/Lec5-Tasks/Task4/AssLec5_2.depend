@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1729465622 source:c:\users\noga\desktop\iti\asslec5_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+

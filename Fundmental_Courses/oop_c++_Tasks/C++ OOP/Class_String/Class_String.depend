@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1730967769 source:c:\users\noga\desktop\iti\class_string\main.cpp
+	<iostream>
+	<cstring>
+

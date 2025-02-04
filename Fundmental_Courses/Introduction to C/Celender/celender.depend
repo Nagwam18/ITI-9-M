@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1729085474 source:c:\users\noga\desktop\iti\celender\main.c
+	<stdio.h>
+	<stdlib.h>
+

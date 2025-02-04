@@ -1,0 +1,13 @@
+1- implement a linked list for nodes (node: have employee number, name, position)
+- Insert data
+- update data
+- delete by (id)
+- update by (id)
+- display all
+- delete all
+
+2- save a stack of nodes (1 side linked list ? push, pop for nodes ) if the ode is empty raise a
+message that the stack is empty
+
+3- implement queue of nodes --> enqueue, dequeue the nodes in the queue
+the queue has size --> nodes are employees(number, name, position)

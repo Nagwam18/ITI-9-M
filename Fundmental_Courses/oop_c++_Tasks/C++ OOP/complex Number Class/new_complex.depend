@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1730556320 source:c:\users\noga\desktop\iti\new_complex\main.cpp
+	<iostream>
+	<string.h>
+
